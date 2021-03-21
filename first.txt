@@ -1,0 +1,16 @@
+Hello this is my first txt file nano wrote to test the git
+
+Now i want to edit the file to do the second commit
+
+
+now this is to test whether the git able to recognize when this file is updated whithout opening it 
+and now when i am going to open it let me see whether it will going to recognize it or not....
+
+now i am editing again forth time to before opning git ofcourse i came to know it sheow in status it is not committed
+ yet
+
+lets see
+
+now forth commit to see the git gui app how it looks
+
+
