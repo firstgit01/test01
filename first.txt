@@ -13,4 +13,6 @@ lets see
 
 now forth commit to see the git gui app how it looks
 
+This time editing to upload on server after commiting
+
 
